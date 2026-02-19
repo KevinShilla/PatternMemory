@@ -1,0 +1,9 @@
+react-web/node_modules/
+react-web/dist/
+
+java-api/target/
+
+.DS_Store
+.vscode/
+.idea/
+*.iml
